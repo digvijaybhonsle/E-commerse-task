@@ -23,7 +23,6 @@ cd e-shop
 
 ## 2. Commands - Running the Code
 
-```sh
 npm install
 ```
 ```sh

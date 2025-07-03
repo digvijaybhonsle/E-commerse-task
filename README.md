@@ -1,4 +1,4 @@
-﻿# Assignment_Task-Splitter
+﻿# Assignment_E-commerse
 
 ## Overview
 
@@ -20,9 +20,9 @@ A modern e-commerce frontend built using **React** and **Vite**, featuring categ
 ```bash
 git clone https://github.com/your-username/e-shop.git
 cd e-shop
-
+```
 ## 2. Commands - Running the Code
-
+```sh
 npm install
 ```
 ```sh

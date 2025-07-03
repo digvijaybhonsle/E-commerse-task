@@ -18,8 +18,8 @@ A modern e-commerce frontend built using **React** and **Vite**, featuring categ
 ## 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/e-shop.git
-cd e-shop
+git clone https://github.com/digvijaybhonsle/E-commerse-task.git
+cd E-commerse-task
 ```
 ## 2. Commands - Running the Code
 ```sh
